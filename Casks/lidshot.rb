@@ -1,6 +1,6 @@
 cask "lidshot" do
-  version "1.5.0"
-  sha256 "4370ce67a7c46384c9142ca6a50f74bae35787966ede794611b7e6943b4635b3"
+  version "1.5.1"
+  sha256 "b058d564f288da28939cf5e3c817d7482658d8aa1b1ac506b84c41e2a65b864b"
 
   url "https://github.com/Extrik808/LidShot/releases/download/v#{version}/LidShot-#{version}.zip"
   name "LidShot"
